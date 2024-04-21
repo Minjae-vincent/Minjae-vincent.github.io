@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'GmarketSansMedium';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SpoqaHanSans';
+  /* font-weight: 700; */
+  src: url('../font/SpoqaHanSansNeo-Bold.eot') format('embedded-opentype'),
+    url('../font/SpoqaHanSansNeo-Bold.woff2') format('woff2'),
+    url('../font/SpoqaHanSansNeo-Bold.woff') format('woff'),
+    url('../font/SpoqaHanSansNeo-Bold.ttf') format('truetype');
+}
+.small-fonts {
+  font-family: 'GmarketSansMedium';
+  font-size: 0.7vw;
+  margin: 0;
+}
+
+.content-fonts {
+  font-family: 'GmarketSansMedium';
+  font-size: 1.5vw;
+  color: #4853dc;
+
+  margin: 0;
+}
+
+.midle-fonts {
+  font-family: 'GmarketSansMedium';
+  font-size: 5.5vw;
+  margin: 0;
+  letter-spacing: 0.9vw;
+}
+
+.theme-fonts {
+  font-family: 'GmarketSansMedium';
+  font-size: 3.5vw;
+  margin: 0;
+  /* letter-spacing: 0.9vw; */
+}
+
+.big-fonts {
+  font-family: 'GmarketSansMedium';
+  font-size: 7vw;
+  margin: 0;
+  letter-spacing: 0.9vw;
+}
+.normal-fonts {
+  font-family: 'GmarketSansMedium';
+  font-size: 2vw;
+  margin: 0;
+  /* letter-spacing: 0.9vw; */
+}
+.normal-fonts-2 {
+  font-family: 'GmarketSansMedium';
+  font-size: 1.5vw;
+  margin: 0;
+  color: rgb(104, 103, 103);
+  /* letter-spacing: 0.9vw; */
+}
