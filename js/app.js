@@ -15,7 +15,6 @@ function makeLottoNumber(lottoNum, count) {
 function makeLottoNum() {
   // 로또 번호 배열 초기화-> makeLottoNumber 함수 사용
   var x = makeLottoNumber(lottoNum, 7);
-  a;
 
   // 결과를 담기 위한 영역 호출
   const result = document.getElementById('ball-container');
